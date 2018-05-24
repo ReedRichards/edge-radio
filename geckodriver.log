@@ -1,0 +1,721 @@
+1495130788870	geckodriver	INFO	Listening on 127.0.0.1:48267
+1495130789998	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495130798980	Marionette	INFO	Listening on port 37967
+1495130799479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495130967077	geckodriver	INFO	Listening on 127.0.0.1:50555
+1495130968175	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495130976451	Marionette	INFO	Listening on port 35155
+1495130976961	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495131061349	geckodriver	INFO	Listening on 127.0.0.1:44525
+1495131062617	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1495131074076	Marionette	INFO	Listening on port 39907
+1495131074642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495131157596	geckodriver	INFO	Listening on 127.0.0.1:43713
+1495131158927	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495131174138	Marionette	INFO	Listening on port 42009
+1495131174608	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x800006,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x800006,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400A8,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1495132725444	geckodriver	INFO	Listening on 127.0.0.1:51019
+1495132726547	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495132734196	Marionette	INFO	Listening on port 44985
+1495132734417	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495133120051	geckodriver	INFO	Listening on 127.0.0.1:33465
+1495133121164	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495133135703	Marionette	INFO	Listening on port 42225
+1495133137078	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x800006,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x800006,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400FA,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/PerformanceWatcher-content.js, line 49: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400A8,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1495133279573	geckodriver	INFO	Listening on 127.0.0.1:48647
+1495133280798	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495133289820	Marionette	INFO	Listening on port 38249
+1495133290249	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495133320702	Marionette	INFO	New connections will no longer be accepted
+1495133447567	geckodriver	INFO	Listening on 127.0.0.1:34479
+1495133448702	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495133457492	Marionette	INFO	Listening on port 41687
+1495133458001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495133490374	Marionette	INFO	New connections will no longer be accepted
+1495137030091	geckodriver	INFO	Listening on 127.0.0.1:36263
+1495137031235	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495137039486	Marionette	INFO	Listening on port 36413
+1495137039947	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495137071760	Marionette	INFO	New connections will no longer be accepted
+[Child 24449] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1495137130064	geckodriver	INFO	Listening on 127.0.0.1:55161
+1495137131199	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495137139612	Marionette	INFO	Listening on port 37735
+1495137139994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495137170832	Marionette	INFO	New connections will no longer be accepted
+[Child 24563] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1495137200801	geckodriver	INFO	Listening on 127.0.0.1:59521
+1495137201921	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495137210221	Marionette	INFO	Listening on port 45793
+1495137210650	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495137242977	Marionette	INFO	New connections will no longer be accepted
+1495137277431	geckodriver	INFO	Listening on 127.0.0.1:36145
+1495137278581	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495137286917	Marionette	INFO	Listening on port 41107
+1495137287301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495137318315	Marionette	INFO	New connections will no longer be accepted
+[Child 24756] WARNING: pipe error (14): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[Child 24756] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1495137521146	geckodriver	INFO	Listening on 127.0.0.1:40265
+1495137522289	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495137529657	Marionette	INFO	Listening on port 38611
+1495137529950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495137656000	geckodriver	INFO	Listening on 127.0.0.1:53819
+1495137657095	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495137665539	Marionette	INFO	Listening on port 42459
+1495137666047	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495137712475	geckodriver	INFO	Listening on 127.0.0.1:33349
+1495137713608	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495137723528	Marionette	INFO	Listening on port 36419
+1495137724065	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495137755717	Marionette	INFO	New connections will no longer be accepted
+1495138018345	geckodriver	INFO	Listening on 127.0.0.1:45413
+1495138019480	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495138027647	Marionette	INFO	Listening on port 37505
+1495138028137	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495138058593	Marionette	INFO	New connections will no longer be accepted
+1495138148243	geckodriver	INFO	Listening on 127.0.0.1:52829
+1495138149362	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495138157890	Marionette	INFO	Listening on port 41423
+1495138158316	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495138188984	Marionette	INFO	New connections will no longer be accepted
+[Child 25364] WARNING: pipe error (14): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1495138327325	geckodriver	INFO	Listening on 127.0.0.1:57109
+1495138328461	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495138336801	Marionette	INFO	Listening on port 46017
+1495138337235	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495138366055	Marionette	INFO	New connections will no longer be accepted
+1495138927824	geckodriver	INFO	Listening on 127.0.0.1:38441
+1495138929000	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495138937674	Marionette	INFO	Listening on port 34529
+1495138938143	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495138977228	Marionette	INFO	New connections will no longer be accepted
+[Child 27402] WARNING: pipe error (14): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[Child 27402] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1495139076286	geckodriver	INFO	Listening on 127.0.0.1:40427
+1495139077452	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495139086380	Marionette	INFO	Listening on port 42579
+1495139086802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495139117168	Marionette	INFO	New connections will no longer be accepted
+1495139174024	geckodriver	INFO	Listening on 127.0.0.1:44579
+1495139175152	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495139183249	Marionette	INFO	Listening on port 34471
+1495139183652	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495139215914	Marionette	INFO	New connections will no longer be accepted
+[Child 27639] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1495139662223	geckodriver	INFO	Listening on 127.0.0.1:58729
+1495139663332	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495139670843	Marionette	INFO	Listening on port 39925
+1495139671352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495139703293	Marionette	INFO	New connections will no longer be accepted
+[Child 27770] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1495139764147	geckodriver	INFO	Listening on 127.0.0.1:45927
+1495139765301	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495139773225	Marionette	INFO	Listening on port 43479
+1495139773467	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495139808479	Marionette	INFO	New connections will no longer be accepted
+[Child 27864] WARNING: pipe error (14): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x880008,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x880007,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+[Child 27864] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1495139912073	geckodriver	INFO	Listening on 127.0.0.1:39249
+1495139913232	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495139922722	Marionette	INFO	Listening on port 42145
+1495139923213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495139958515	Marionette	INFO	New connections will no longer be accepted
+1495140342688	geckodriver	INFO	Listening on 127.0.0.1:48191
+1495140343943	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495140352021	Marionette	INFO	Listening on port 38095
+1495140352421	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495140390556	Marionette	INFO	New connections will no longer be accepted
+1495140601229	geckodriver	INFO	Listening on 127.0.0.1:54569
+1495140602389	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495140615760	Marionette	INFO	Listening on port 35139
+1495140617229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495140665010	Marionette	INFO	New connections will no longer be accepted
+[Child 28387] WARNING: pipe error (14): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+[Child 28387] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1495140986487	geckodriver	INFO	Listening on 127.0.0.1:42545
+1495140987631	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495140995975	Marionette	INFO	Listening on port 34031
+1495140996205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495141027496	Marionette	INFO	New connections will no longer be accepted
+[Child 28523] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1495141131860	geckodriver	INFO	Listening on 127.0.0.1:48587
+1495141132951	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+1495141143316	Marionette	INFO	Listening on port 33207
+1495141144345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1495141187675	Marionette	INFO	New connections will no longer be accepted
+1495144944140	geckodriver	INFO	Listening on 127.0.0.1:57962
+1495144945231	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:3856): Gtk-WARNING **: Theme parsing error: gtk.css:27:35: Junk at end of value
+
+(firefox:3856): Gtk-WARNING **: Theme parsing error: gtk.css:40:48: Junk at end of value
+
+(firefox:3856): Gtk-WARNING **: Theme parsing error: gtk.css:48:46: Junk at end of value
+
+(firefox:3856): Gtk-WARNING **: Theme parsing error: gtk.css:59:58: Junk at end of value
+
+(firefox:3856): Gtk-WARNING **: Theme parsing error: gtk.css:70:46: Junk at end of value
+
+(firefox:3856): Gtk-WARNING **: Theme parsing error: gtk.css:81:58: Junk at end of value
+1495144953760	Marionette	INFO	Listening on port 45756
+1495144954010	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3912): Gtk-WARNING **: Theme parsing error: gtk.css:27:35: Junk at end of value
+
+(/usr/lib/firefox/firefox:3912): Gtk-WARNING **: Theme parsing error: gtk.css:40:48: Junk at end of value
+
+(/usr/lib/firefox/firefox:3912): Gtk-WARNING **: Theme parsing error: gtk.css:48:46: Junk at end of value
+
+(/usr/lib/firefox/firefox:3912): Gtk-WARNING **: Theme parsing error: gtk.css:59:58: Junk at end of value
+
+(/usr/lib/firefox/firefox:3912): Gtk-WARNING **: Theme parsing error: gtk.css:70:46: Junk at end of value
+
+(/usr/lib/firefox/firefox:3912): Gtk-WARNING **: Theme parsing error: gtk.css:81:58: Junk at end of value
+JavaScript error: http://www.edge.ca/wp-includes/js/wp-emoji-release.min.js?ver=4.6.1, line 4: NS_ERROR_UNEXPECTED: 
+JavaScript error: http://cdn-js.socastsrm.com/cdn_v4.2.5/wordpress/wp-content/plugins/socast/js/social.js?v=2013-10-01&ver=4.6.1, line 33: TypeError: window.location is null
+JavaScript error: http://native.sharethrough.com/assets/sfp.js, line 4: TypeError: STR.Tag.Helpers.UidProvider is undefined
+1495145043465	geckodriver	INFO	Listening on 127.0.0.1:45304
+1495145044555	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:3986): Gtk-WARNING **: Theme parsing error: gtk.css:27:35: Junk at end of value
+
+(firefox:3986): Gtk-WARNING **: Theme parsing error: gtk.css:40:48: Junk at end of value
+
+(firefox:3986): Gtk-WARNING **: Theme parsing error: gtk.css:48:46: Junk at end of value
+
+(firefox:3986): Gtk-WARNING **: Theme parsing error: gtk.css:59:58: Junk at end of value
+
+(firefox:3986): Gtk-WARNING **: Theme parsing error: gtk.css:70:46: Junk at end of value
+
+(firefox:3986): Gtk-WARNING **: Theme parsing error: gtk.css:81:58: Junk at end of value
+1495145052847	Marionette	INFO	Listening on port 45654
+1495145053333	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4061): Gtk-WARNING **: Theme parsing error: gtk.css:27:35: Junk at end of value
+
+(/usr/lib/firefox/firefox:4061): Gtk-WARNING **: Theme parsing error: gtk.css:40:48: Junk at end of value
+
+(/usr/lib/firefox/firefox:4061): Gtk-WARNING **: Theme parsing error: gtk.css:48:46: Junk at end of value
+
+(/usr/lib/firefox/firefox:4061): Gtk-WARNING **: Theme parsing error: gtk.css:59:58: Junk at end of value
+
+(/usr/lib/firefox/firefox:4061): Gtk-WARNING **: Theme parsing error: gtk.css:70:46: Junk at end of value
+
+(/usr/lib/firefox/firefox:4061): Gtk-WARNING **: Theme parsing error: gtk.css:81:58: Junk at end of value
+1495145087377	Marionette	INFO	New connections will no longer be accepted
+1495145180319	geckodriver	INFO	Listening on 127.0.0.1:40660
+1495145181343	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:4154): Gtk-WARNING **: Theme parsing error: gtk.css:27:35: Junk at end of value
+
+(firefox:4154): Gtk-WARNING **: Theme parsing error: gtk.css:40:48: Junk at end of value
+
+(firefox:4154): Gtk-WARNING **: Theme parsing error: gtk.css:48:46: Junk at end of value
+
+(firefox:4154): Gtk-WARNING **: Theme parsing error: gtk.css:59:58: Junk at end of value
+
+(firefox:4154): Gtk-WARNING **: Theme parsing error: gtk.css:70:46: Junk at end of value
+
+(firefox:4154): Gtk-WARNING **: Theme parsing error: gtk.css:81:58: Junk at end of value
+1495145188988	Marionette	INFO	Listening on port 42858
+1495145189128	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4211): Gtk-WARNING **: Theme parsing error: gtk.css:27:35: Junk at end of value
+
+(/usr/lib/firefox/firefox:4211): Gtk-WARNING **: Theme parsing error: gtk.css:40:48: Junk at end of value
+
+(/usr/lib/firefox/firefox:4211): Gtk-WARNING **: Theme parsing error: gtk.css:48:46: Junk at end of value
+
+(/usr/lib/firefox/firefox:4211): Gtk-WARNING **: Theme parsing error: gtk.css:59:58: Junk at end of value
+
+(/usr/lib/firefox/firefox:4211): Gtk-WARNING **: Theme parsing error: gtk.css:70:46: Junk at end of value
+
+(/usr/lib/firefox/firefox:4211): Gtk-WARNING **: Theme parsing error: gtk.css:81:58: Junk at end of value
+1495145204426	Marionette	INFO	New connections will no longer be accepted
+1495145250637	geckodriver	INFO	Listening on 127.0.0.1:53741
+1495145251687	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:4272): Gtk-WARNING **: Theme parsing error: gtk.css:27:35: Junk at end of value
+
+(firefox:4272): Gtk-WARNING **: Theme parsing error: gtk.css:40:48: Junk at end of value
+
+(firefox:4272): Gtk-WARNING **: Theme parsing error: gtk.css:48:46: Junk at end of value
+
+(firefox:4272): Gtk-WARNING **: Theme parsing error: gtk.css:59:58: Junk at end of value
+
+(firefox:4272): Gtk-WARNING **: Theme parsing error: gtk.css:70:46: Junk at end of value
+
+(firefox:4272): Gtk-WARNING **: Theme parsing error: gtk.css:81:58: Junk at end of value
+1495145259329	Marionette	INFO	Listening on port 34710
+1495145259598	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: gtk.css:27:35: Junk at end of value
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: gtk.css:40:48: Junk at end of value
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: gtk.css:48:46: Junk at end of value
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: gtk.css:59:58: Junk at end of value
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: gtk.css:70:46: Junk at end of value
+
+(/usr/lib/firefox/firefox:4331): Gtk-WARNING **: Theme parsing error: gtk.css:81:58: Junk at end of value
+1495145311700	Marionette	INFO	New connections will no longer be accepted
+1495145899656	geckodriver	INFO	Listening on 127.0.0.1:38528
+1495145900697	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:4641): Gtk-WARNING **: Theme parsing error: gtk.css:27:35: Junk at end of value
+
+(firefox:4641): Gtk-WARNING **: Theme parsing error: gtk.css:40:48: Junk at end of value
+
+(firefox:4641): Gtk-WARNING **: Theme parsing error: gtk.css:48:46: Junk at end of value
+
+(firefox:4641): Gtk-WARNING **: Theme parsing error: gtk.css:59:58: Junk at end of value
+
+(firefox:4641): Gtk-WARNING **: Theme parsing error: gtk.css:70:46: Junk at end of value
+
+(firefox:4641): Gtk-WARNING **: Theme parsing error: gtk.css:81:58: Junk at end of value
+1495145908610	Marionette	INFO	Listening on port 44404
+1495145908755	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4702): Gtk-WARNING **: Theme parsing error: gtk.css:27:35: Junk at end of value
+
+(/usr/lib/firefox/firefox:4702): Gtk-WARNING **: Theme parsing error: gtk.css:40:48: Junk at end of value
+
+(/usr/lib/firefox/firefox:4702): Gtk-WARNING **: Theme parsing error: gtk.css:48:46: Junk at end of value
+
+(/usr/lib/firefox/firefox:4702): Gtk-WARNING **: Theme parsing error: gtk.css:59:58: Junk at end of value
+
+(/usr/lib/firefox/firefox:4702): Gtk-WARNING **: Theme parsing error: gtk.css:70:46: Junk at end of value
+
+(/usr/lib/firefox/firefox:4702): Gtk-WARNING **: Theme parsing error: gtk.css:81:58: Junk at end of value
+1495145924775	Marionette	INFO	New connections will no longer be accepted
+1495162470972	geckodriver	INFO	Listening on 127.0.0.1:53106
+1495162472063	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:9860): Gtk-WARNING **: Theme parsing error: gtk.css:27:35: Junk at end of value
+
+(firefox:9860): Gtk-WARNING **: Theme parsing error: gtk.css:40:48: Junk at end of value
+
+(firefox:9860): Gtk-WARNING **: Theme parsing error: gtk.css:48:46: Junk at end of value
+
+(firefox:9860): Gtk-WARNING **: Theme parsing error: gtk.css:59:58: Junk at end of value
+
+(firefox:9860): Gtk-WARNING **: Theme parsing error: gtk.css:70:46: Junk at end of value
+
+(firefox:9860): Gtk-WARNING **: Theme parsing error: gtk.css:81:58: Junk at end of value
+1495162481650	Marionette	INFO	Listening on port 33721
+1495162482439	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9917): Gtk-WARNING **: Theme parsing error: gtk.css:27:35: Junk at end of value
+
+(/usr/lib/firefox/firefox:9917): Gtk-WARNING **: Theme parsing error: gtk.css:40:48: Junk at end of value
+
+(/usr/lib/firefox/firefox:9917): Gtk-WARNING **: Theme parsing error: gtk.css:48:46: Junk at end of value
+
+(/usr/lib/firefox/firefox:9917): Gtk-WARNING **: Theme parsing error: gtk.css:59:58: Junk at end of value
+
+(/usr/lib/firefox/firefox:9917): Gtk-WARNING **: Theme parsing error: gtk.css:70:46: Junk at end of value
+
+(/usr/lib/firefox/firefox:9917): Gtk-WARNING **: Theme parsing error: gtk.css:81:58: Junk at end of value
+1495162547877	Marionette	INFO	New connections will no longer be accepted
+1495164477547	geckodriver	INFO	Listening on 127.0.0.1:38970
+1495164478630	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:10528): Gtk-WARNING **: Theme parsing error: gtk.css:27:35: Junk at end of value
+
+(firefox:10528): Gtk-WARNING **: Theme parsing error: gtk.css:40:48: Junk at end of value
+
+(firefox:10528): Gtk-WARNING **: Theme parsing error: gtk.css:48:46: Junk at end of value
+
+(firefox:10528): Gtk-WARNING **: Theme parsing error: gtk.css:59:58: Junk at end of value
+
+(firefox:10528): Gtk-WARNING **: Theme parsing error: gtk.css:70:46: Junk at end of value
+
+(firefox:10528): Gtk-WARNING **: Theme parsing error: gtk.css:81:58: Junk at end of value
+1495164487976	Marionette	INFO	Listening on port 33654
+1495164488767	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10575): Gtk-WARNING **: Theme parsing error: gtk.css:27:35: Junk at end of value
+
+(/usr/lib/firefox/firefox:10575): Gtk-WARNING **: Theme parsing error: gtk.css:40:48: Junk at end of value
+
+(/usr/lib/firefox/firefox:10575): Gtk-WARNING **: Theme parsing error: gtk.css:48:46: Junk at end of value
+
+(/usr/lib/firefox/firefox:10575): Gtk-WARNING **: Theme parsing error: gtk.css:59:58: Junk at end of value
+
+(/usr/lib/firefox/firefox:10575): Gtk-WARNING **: Theme parsing error: gtk.css:70:46: Junk at end of value
+
+(/usr/lib/firefox/firefox:10575): Gtk-WARNING **: Theme parsing error: gtk.css:81:58: Junk at end of value
+1495164513242	Marionette	INFO	New connections will no longer be accepted
+[Child 10575] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1495164534536	geckodriver	INFO	Listening on 127.0.0.1:58372
+1495164535688	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:10645): Gtk-WARNING **: Theme parsing error: gtk.css:27:35: Junk at end of value
+
+(firefox:10645): Gtk-WARNING **: Theme parsing error: gtk.css:40:48: Junk at end of value
+
+(firefox:10645): Gtk-WARNING **: Theme parsing error: gtk.css:48:46: Junk at end of value
+
+(firefox:10645): Gtk-WARNING **: Theme parsing error: gtk.css:59:58: Junk at end of value
+
+(firefox:10645): Gtk-WARNING **: Theme parsing error: gtk.css:70:46: Junk at end of value
+
+(firefox:10645): Gtk-WARNING **: Theme parsing error: gtk.css:81:58: Junk at end of value
+1495164545085	Marionette	INFO	Listening on port 45742
+1495164546150	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10694): Gtk-WARNING **: Theme parsing error: gtk.css:27:35: Junk at end of value
+
+(/usr/lib/firefox/firefox:10694): Gtk-WARNING **: Theme parsing error: gtk.css:40:48: Junk at end of value
+
+(/usr/lib/firefox/firefox:10694): Gtk-WARNING **: Theme parsing error: gtk.css:48:46: Junk at end of value
+
+(/usr/lib/firefox/firefox:10694): Gtk-WARNING **: Theme parsing error: gtk.css:59:58: Junk at end of value
+
+(/usr/lib/firefox/firefox:10694): Gtk-WARNING **: Theme parsing error: gtk.css:70:46: Junk at end of value
+
+(/usr/lib/firefox/firefox:10694): Gtk-WARNING **: Theme parsing error: gtk.css:81:58: Junk at end of value
+1495164629018	Marionette	INFO	New connections will no longer be accepted
+1495166266360	geckodriver	INFO	Listening on 127.0.0.1:39374
+1495166267495	geckodriver::marionette	INFO	Starting browser /usr/lib/firefox/firefox.sh with args ["-marionette"]
+
+(firefox:11207): Gtk-WARNING **: Theme parsing error: gtk.css:27:35: Junk at end of value
+
+(firefox:11207): Gtk-WARNING **: Theme parsing error: gtk.css:40:48: Junk at end of value
+
+(firefox:11207): Gtk-WARNING **: Theme parsing error: gtk.css:48:46: Junk at end of value
+
+(firefox:11207): Gtk-WARNING **: Theme parsing error: gtk.css:59:58: Junk at end of value
+
+(firefox:11207): Gtk-WARNING **: Theme parsing error: gtk.css:70:46: Junk at end of value
+
+(firefox:11207): Gtk-WARNING **: Theme parsing error: gtk.css:81:58: Junk at end of value
+1495166277730	Marionette	INFO	Listening on port 37529
+1495166278579	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11254): Gtk-WARNING **: Theme parsing error: gtk.css:27:35: Junk at end of value
+
+(/usr/lib/firefox/firefox:11254): Gtk-WARNING **: Theme parsing error: gtk.css:40:48: Junk at end of value
+
+(/usr/lib/firefox/firefox:11254): Gtk-WARNING **: Theme parsing error: gtk.css:48:46: Junk at end of value
+
+(/usr/lib/firefox/firefox:11254): Gtk-WARNING **: Theme parsing error: gtk.css:59:58: Junk at end of value
+
+(/usr/lib/firefox/firefox:11254): Gtk-WARNING **: Theme parsing error: gtk.css:70:46: Junk at end of value
+
+(/usr/lib/firefox/firefox:11254): Gtk-WARNING **: Theme parsing error: gtk.css:81:58: Junk at end of value
+1495166303756	Marionette	INFO	New connections will no longer be accepted
+[Child 11254] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-tJ4O1e/firefox-53.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
